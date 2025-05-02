@@ -1,9 +1,13 @@
-<!-- ## Hi I'm Kevin  👋 -->
-
+<h1 align='center'>
+Hi there👋 I'm Kevin  👨‍💻
+</h1>
+<p align='center'>
+  A developer from Indonesia learning every day.
+</p>
 <!--
 **KevinKautsarr/KevinKautsarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-| ![Kevin Kautsar](img/github-header-image.png) | ![kucing](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcwaHQ2MmxkeTA3enl3eGthNjFycmgycGVicnI3aDNvbGpreHJ1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif) |
-|-----------------------------------------------|----------------------------------------------------------------------------------------------------|
+--> 
+![kucing](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZlNXhkbmdqMTVpYW5udzA3MHJhc3NleW11ZXhlY25vanowYjdneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif)
