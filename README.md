@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi I'm Kevin  👋 -->
 
 <!--
 **KevinKautsarr/KevinKautsarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| ![Kevin Kautsar](img/github-header-image.png) | ![kucing](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXcwaHQ2MmxkeTA3enl3eGthNjFycmgycGVicnI3aDNvbGpreHJ1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif) |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------|
